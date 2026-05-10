@@ -18,25 +18,25 @@ CodeGraph AI is a sophisticated full-stack repository auditing platform that pro
 
 \### 📋 Summary — AI-Generated Technical Executive Summary
 
-!\[Summary Tab](screenshots/summary.png)
+![Summary Tab](https://github.com/Sri-Lohith-Mulugu/CodeGraph-AI/blob/main/screenshots/summary.png?raw=true)
 
 
 
 \### 🔒 Security — Vulnerability Assessment with Severity Ratings
 
-!\[Security Tab](screenshots/security.png)
+![Security Tab](https://github.com/Sri-Lohith-Mulugu/CodeGraph-AI/blob/main/screenshots/security.png?raw=true)
 
 
 
 \### 🏗️ Architecture — Full Architectural Analysis \& Data Flow
 
-!\[Architecture Tab](screenshots/architecture.png)
+![Architecture Tab](https://github.com/Sri-Lohith-Mulugu/CodeGraph-AI/blob/main/screenshots/architecture.png?raw=true)
 
 
 
 \### 🕸️ File Graph — Interactive Dependency Topology
 
-!\[File Graph Tab](screenshots/filegraph.png)
+![File Graph Tab](https://github.com/Sri-Lohith-Mulugu/CodeGraph-AI/blob/main/screenshots/filegraph.png?raw=true)
 
 
 
